@@ -6,5 +6,5 @@
 
 # 
 
-# This change was made on my Windows computer and will be pushed to Newtdock.
+# This contains config files for my docker instance and monitoring dockers.  
 
